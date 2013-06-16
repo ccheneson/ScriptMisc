@@ -24,3 +24,7 @@ Mode d'emploi:
 - `./LaPosteReleve.py`
 
 Dans le répertoire LaPoste, vous trouverez un fichier _LaPosteReleve.html_ avec tous vos relevés regroupés
+
+Afin de pouvoir utiliser la recherche, vous devrez téléchargé
+- la framework [jQuery (min) ici](http://jquery.com/download/) et le placer dans le répertoire _LaPoste_ sous le nom de _jquery.min.js_
+- le plugin [jQuery quicksearch ici](https://github.com/riklomasquicksearch) et le placer dans le répertoire _LaPoste_ sous le nom de _jquery.quicksearch.js_
