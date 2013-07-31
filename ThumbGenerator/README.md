@@ -2,9 +2,7 @@ ThumbGene
 =============
 
 This C program has been developped in 2001.
-
-Its purpose was to generate thumbnails from original pictures. 
-
+Its purpose was to generate thumbnails from original pictures for the application phpwebgallery 
 It uses the gd library to generate the newly resized pictures.
 
 User guide:
