@@ -11,10 +11,11 @@ User guide:
 
 - Typing `./ThumbGene --help` will present you the availables options:
 
-    Usage: ./ThumbGene [options] 
-     -h      --help             Display this usage information.
-     -p      --phpwebgallery    Create thumbnails for phpwebgallery application.
-     -f      --factor           Enter scale factor.By default, it's 4.
-     -s      --size             Enter the size of x and y. Choices are 1024768, 640480 or 160120
-     -v      --verbose          Print verbose messages.
+
+Usage: ./ThumbGene [options] 
+ -h      --help             Display this usage information.
+ -p      --phpwebgallery    Create thumbnails for phpwebgallery application.
+ -f      --factor           Enter scale factor.By default, it's 4.
+ -s      --size             Enter the size of x and y. Choices are 1024768, 640480 or 160120
+ -v      --verbose          Print verbose messages.
 
